@@ -8,7 +8,8 @@
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
-    "strapi-plugin-navigation": "^2.0.13"
+    "strapi-plugin-navigation": "^2.0.13",
+    "strapi-plugin-sitemap": "^2.0.8"
   },
   "name": "backend",
   "private": true,

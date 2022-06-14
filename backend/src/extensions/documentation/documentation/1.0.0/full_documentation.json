@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-14T09:52:04.747Z"
+    "x-generation-date": "2022-06-14T09:56:48.589Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -146,6 +146,9 @@
                   }
                 ],
                 "example": "string or id"
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -600,6 +603,9 @@
                                                                 }
                                                               }
                                                             }
+                                                          },
+                                                          "sitemap_exclude": {
+                                                            "type": "boolean"
                                                           }
                                                         }
                                                       }
@@ -985,6 +991,9 @@
                                                                             }
                                                                           }
                                                                         }
+                                                                      },
+                                                                      "sitemap_exclude": {
+                                                                        "type": "boolean"
                                                                       }
                                                                     }
                                                                   }
@@ -1307,6 +1316,9 @@
                                                                 }
                                                               }
                                                             }
+                                                          },
+                                                          "sitemap_exclude": {
+                                                            "type": "boolean"
                                                           }
                                                         }
                                                       }
@@ -1359,6 +1371,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -1408,6 +1423,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -1778,6 +1796,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -1847,6 +1868,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -2325,6 +2349,9 @@
                                                               }
                                                             }
                                                           }
+                                                        },
+                                                        "sitemap_exclude": {
+                                                          "type": "boolean"
                                                         }
                                                       }
                                                     }
@@ -2710,6 +2737,9 @@
                                                                           }
                                                                         }
                                                                       }
+                                                                    },
+                                                                    "sitemap_exclude": {
+                                                                      "type": "boolean"
                                                                     }
                                                                   }
                                                                 }
@@ -3032,6 +3062,9 @@
                                                               }
                                                             }
                                                           }
+                                                        },
+                                                        "sitemap_exclude": {
+                                                          "type": "boolean"
                                                         }
                                                       }
                                                     }
@@ -3084,6 +3117,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -3133,6 +3169,9 @@
                                     }
                                   }
                                 }
+                              },
+                              "sitemap_exclude": {
+                                "type": "boolean"
                               }
                             }
                           }
@@ -3503,6 +3542,9 @@
                                     }
                                   }
                                 }
+                              },
+                              "sitemap_exclude": {
+                                "type": "boolean"
                               }
                             }
                           }
@@ -3572,6 +3614,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -3614,6 +3659,9 @@
                   ],
                   "example": "string or id"
                 }
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -3994,6 +4042,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -4364,6 +4415,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -4749,6 +4803,9 @@
                                                                 }
                                                               }
                                                             }
+                                                          },
+                                                          "sitemap_exclude": {
+                                                            "type": "boolean"
                                                           }
                                                         }
                                                       }
@@ -4820,6 +4877,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -4872,6 +4932,9 @@
                                         }
                                       }
                                     }
+                                  },
+                                  "sitemap_exclude": {
+                                    "type": "boolean"
                                   }
                                 }
                               }
@@ -4921,6 +4984,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -5325,6 +5391,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -5695,6 +5764,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -6080,6 +6152,9 @@
                                                               }
                                                             }
                                                           }
+                                                        },
+                                                        "sitemap_exclude": {
+                                                          "type": "boolean"
                                                         }
                                                       }
                                                     }
@@ -6151,6 +6226,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -6203,6 +6281,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -6252,6 +6333,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -6310,6 +6394,9 @@
                   }
                 ],
                 "example": "string or id"
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -6706,6 +6793,9 @@
                                           }
                                         }
                                       }
+                                    },
+                                    "sitemap_exclude": {
+                                      "type": "boolean"
                                     }
                                   }
                                 }
@@ -7078,6 +7168,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -7377,6 +7470,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -7797,6 +7893,9 @@
                                         }
                                       }
                                     }
+                                  },
+                                  "sitemap_exclude": {
+                                    "type": "boolean"
                                   }
                                 }
                               }
@@ -8169,6 +8268,9 @@
                                     }
                                   }
                                 }
+                              },
+                              "sitemap_exclude": {
+                                "type": "boolean"
                               }
                             }
                           }
@@ -8468,6 +8570,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -8519,6 +8624,9 @@
                     "type": "string"
                   }
                 }
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -8912,6 +9020,9 @@
                                           }
                                         }
                                       }
+                                    },
+                                    "sitemap_exclude": {
+                                      "type": "boolean"
                                     }
                                   }
                                 }
@@ -9224,6 +9335,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -9641,6 +9755,9 @@
                                         }
                                       }
                                     }
+                                  },
+                                  "sitemap_exclude": {
+                                    "type": "boolean"
                                   }
                                 }
                               }
@@ -9953,6 +10070,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -10003,6 +10123,9 @@
               },
               "email": {
                 "type": "string"
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -10387,6 +10510,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -10750,6 +10876,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -11120,6 +11249,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -11505,6 +11637,9 @@
                                                                 }
                                                               }
                                                             }
+                                                          },
+                                                          "sitemap_exclude": {
+                                                            "type": "boolean"
                                                           }
                                                         }
                                                       }
@@ -11576,6 +11711,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -11628,6 +11766,9 @@
                                         }
                                       }
                                     }
+                                  },
+                                  "sitemap_exclude": {
+                                    "type": "boolean"
                                   }
                                 }
                               }
@@ -11680,6 +11821,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -12088,6 +12232,9 @@
                                     }
                                   }
                                 }
+                              },
+                              "sitemap_exclude": {
+                                "type": "boolean"
                               }
                             }
                           }
@@ -12451,6 +12598,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -12821,6 +12971,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -13206,6 +13359,9 @@
                                                               }
                                                             }
                                                           }
+                                                        },
+                                                        "sitemap_exclude": {
+                                                          "type": "boolean"
                                                         }
                                                       }
                                                     }
@@ -13277,6 +13433,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -13329,6 +13488,9 @@
                                       }
                                     }
                                   }
+                                },
+                                "sitemap_exclude": {
+                                  "type": "boolean"
                                 }
                               }
                             }
@@ -13381,6 +13543,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -13460,6 +13625,9 @@
                   ],
                   "example": "string or id"
                 }
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -13829,6 +13997,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -14222,6 +14393,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
@@ -14727,6 +14901,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -15318,6 +15495,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -15903,6 +16083,9 @@
                                                                   }
                                                                 }
                                                               }
+                                                            },
+                                                            "sitemap_exclude": {
+                                                              "type": "boolean"
                                                             }
                                                           }
                                                         }
@@ -16523,6 +16706,9 @@
                                                                 }
                                                               }
                                                             }
+                                                          },
+                                                          "sitemap_exclude": {
+                                                            "type": "boolean"
                                                           }
                                                         }
                                                       }
@@ -16749,6 +16935,9 @@
                   }
                 ],
                 "example": "string or id"
+              },
+              "sitemap_exclude": {
+                "type": "boolean"
               }
             }
           }
@@ -17238,6 +17427,9 @@
                                                     }
                                                   }
                                                 }
+                                              },
+                                              "sitemap_exclude": {
+                                                "type": "boolean"
                                               }
                                             }
                                           }
@@ -17335,6 +17527,9 @@
                           }
                         }
                       }
+                    },
+                    "sitemap_exclude": {
+                      "type": "boolean"
                     }
                   }
                 }
@@ -17848,6 +18043,9 @@
                                                   }
                                                 }
                                               }
+                                            },
+                                            "sitemap_exclude": {
+                                              "type": "boolean"
                                             }
                                           }
                                         }
@@ -17945,6 +18143,9 @@
                         }
                       }
                     }
+                  },
+                  "sitemap_exclude": {
+                    "type": "boolean"
                   }
                 }
               }
