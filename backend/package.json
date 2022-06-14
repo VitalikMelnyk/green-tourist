@@ -7,7 +7,8 @@
     "@strapi/strapi": "4.1.12",
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
-    "mime-types": "^2.1.27"
+    "mime-types": "^2.1.27",
+    "strapi-plugin-navigation": "^2.0.13"
   },
   "name": "backend",
   "private": true,
