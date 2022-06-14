@@ -10337,6 +10337,11 @@ strapi-plugin-navigation@^2.0.13:
     slugify "^1.4.5"
     uuid "^8.3.0"
 
+strapi-plugin-notes@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-notes/-/strapi-plugin-notes-1.0.1.tgz#5968ce206e1c95936a5fe75fd2612bdc8ec3ae52"
+  integrity sha512-0DwuEdLrETNTyI5LKSZ6xWt2U2P3DpplM2bl7ZyEptbccKAUeWrXxxTtHWMjlCWzQie04BiWrNogIIpgAXpHGw==
+
 strapi-plugin-sitemap@^2.0.8:
   version "2.0.8"
   resolved "https://registry.yarnpkg.com/strapi-plugin-sitemap/-/strapi-plugin-sitemap-2.0.8.tgz#677d8625c3864bf2e300faf9d08d5871304c7029"
